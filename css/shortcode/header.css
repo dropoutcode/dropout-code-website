@@ -9,7 +9,6 @@
 .header-section {
   background-color: #ffffff;
   z-index: 9999;
-  align-items: center;
 }
 .header-transparent {
   background-color: transparent;
@@ -43,7 +42,8 @@
 /*Header Logo*/
 .header-logo img {
   display: block;
-  height: 160px;
+  height: 60px;
+  margin: 16px;
 }
 
 
